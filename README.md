@@ -13,3 +13,4 @@ Resizing issue fixed
 Some ability to edit image
 
 Links:
+https://github.com/lasplin/pain-t-

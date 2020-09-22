@@ -1,8 +1,66 @@
 # pain-t-
+Lin Asplin's pain(t) Version 4.0.0 - 2020-22-09
+
+Links:
+Demo: https://www.youtube.com/watch?v=6Ff0Mj9H03I&feature=youtu.be&hd=1
+Code: https://github.com/lasplin/pain-t-
+
+New Features:
+Added text function
+Added eraser
+Added triangle
+Software indicates which tool is selected
+Drawing in progress is shown.
+
+Known Issues:
+Undo/Redo don't work properly
+
+To Be Added:
+"No tool" button
+Cut/Paste part of image
+Draw polygon with input number of sides
+
+Expected Next Sprint:
+Software testing
+Autosave
+_______________________________________________________________________________________
+Lin Asplin's pain(t) Version 3.0.0 - 2020-13-09
+
+Links:
+Demo: https://www.youtube.com/watch?v=oHTmwDlq6fI&feature=youtu.be&hd=1
+Code: https://github.com/lasplin/pain-t-
+
+New Features:
+Added straight line
+Added shapes
+Color and line width affect shapes
+Zoom function
+Smart save
+Keyboard shortcuts
+Multiple image file types supported
+Color dropper
+Can resize canvas
+
+Known issues:
+Line/pencil button must be pressed after line width is changed for change to hold
+Square and zoom behave strangely
+Click events do not end when new event is pressed
+Undo/Redo buttons do nothing
+
+To be added:
+Undo/Redo
+Place menu items in new classes(For real this time)
+
+Expected next sprint:
+More shapes
+Multiple images open at once
+Cut/Paste image sections
+___________________________________________________________________________________
 Lin Asplin's pain(t) Version 2.0.0 - 2020-04-09
 
 Links:
-https://github.com/lasplin/pain-t-
+Demo: https://www.youtube.com/watch?v=YT3CzY4LQBs
+Code: https://github.com/lasplin/pain-t-
  
 New Features:
 Can draw on image by clicking and dragging
@@ -26,7 +84,7 @@ Draw shapes
 Connect color/width selection to line
 Smart save
 _____________________________________________________________________________________
-Lin Asplin's pain(t) Version 0.0.1 - 8/28/2020
+Lin Asplin's pain(t) Version 1.0.0 - 2020-28-08
 
 New Features:
 Can open image into window

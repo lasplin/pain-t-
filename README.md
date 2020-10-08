@@ -1,8 +1,55 @@
 # pain-t-
+Lin Asplin's pain(t) Version 6.0.0 - 2020-07-10
+
+Links: 
+Demo: https://www.youtube.com/watch?v=WvoQiuSfxaY&feature=youtu.be&hd=1
+Code: https://github.com/lasplin/pain-t
+
+New Features:
+Separate color controls for fill and stroke
+Line width always controls stroke
+Tooltips
+Undo
+Redo
+Can have no tool selected
+Select/Move
+Polygon
+
+Known Issues:
+Cut&paste must be reclicked for another cut
+Image must be selected before canvas can be drawn on
+Polygon size inconsistent
+Timer doesn't actually work
+
+To be added:
+Tabs for multiple images
+Functioning timer
+See image in progress
+_______________________________________________________________________________________
+Lin Asplin's pain(t) Version 5.0.0 - 2020-28-09
+
+Links:
+Demo: https://www.youtube.com/watch?v=1Yk-MqjsaCk&feature=youtu.be&hd=1
+Code: https://github.com/lasplin/pain-t-
+
+New Features:
+Javadoc Commenting
+Unit tests
+
+To Be Added:
+"No tool" button
+Cut/Paste part of image
+Draw polygon with input number of sides
+Autosave
+
+Expected next sprint:
+New feature of choice
+Tabbed images
+_______________________________________________________________________________________
 Lin Asplin's pain(t) Version 4.0.0 - 2020-22-09
 
 Links:
-Demo: https://www.youtube.com/watch?v=6Ff0Mj9H03I&feature=youtu.be&hd=1
+Demo:
 Code: https://github.com/lasplin/pain-t-
 
 New Features:
